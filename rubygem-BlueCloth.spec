@@ -3,7 +3,7 @@
 Summary:	A Ruby implementation of Markdown
 Name:		rubygem-%{oname}
 Version:	1.0.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPLv2+
 Group:		Development/Ruby
 URL:		http://%{oname}.rubyforge.org/
